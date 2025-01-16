@@ -1,0 +1,40 @@
+{
+    "contacts": [
+        {
+            "first_name": "Alina",
+            "last_name": "Stefanenkova",
+            "phone": "555",
+            "country": "Ukraine"
+        },
+        {
+            "first_name": "Fedir",
+            "last_name": "Brovzi",
+            "phone": "767",
+            "country": "Hungary"
+        },
+        {
+            "first_name": "Olichka",
+            "last_name": "Bendysh",
+            "phone": "434",
+            "country": "UK"
+        },
+        {
+            "first_name": "Bodya",
+            "last_name": "Pron`kiv",
+            "phone": "444",
+            "country": "Latvia"
+        },
+        {
+            "first_name": "Sarah",
+            "last_name": "Connor",
+            "phone": "222",
+            "country": "USA"
+        },
+        {
+            "first_name": "Arkadiy",
+            "last_name": "Zaplavniy",
+            "phone": "100",
+            "country": "Australia"
+        }
+    ]
+}

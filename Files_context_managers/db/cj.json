@@ -1,0 +1,1 @@
+{"first_name": "Carl", "last_name": "Johnson", "cars": [{"brand": "Chevrolet", "model": "1964 Impala", "color": "black"}, {"brand": "Ferrari", "model": "1987 Testarossa", "color": "white"}], "has_a_dog": true, "money_in_pocket": 500}

@@ -14,9 +14,6 @@ def test_func(x, y):
     return adder(x, y)
 
 
-print(test_func(5, 7))
-
-
 #---------V2---------------
 def outer_func():
     def inner_func():
@@ -26,4 +23,12 @@ def outer_func():
 
 my_variable = outer_func()
 
-print(my_variable())
+#----------------------------------------
+def main():
+    
+    print(test_func(5, 7))
+    print(my_variable())
+
+
+if __name__ == '__main__':
+    main()

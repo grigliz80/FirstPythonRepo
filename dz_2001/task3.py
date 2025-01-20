@@ -20,6 +20,11 @@ def square_nums(nums_list):
 def remove_negatives(num_list):
     return [i for i in num_list if i > 0]
     
+#--------------------------------------------------------------------
+def main():
+    print(choose_func([1, 2, 3, 4, 5], square_nums, remove_negatives))
+    print(choose_func([1, -2, 3, -4, 5], square_nums,remove_negatives))
 
-print(choose_func([1, 2, 3, 4, 5], square_nums, remove_negatives))
-print(choose_func([1, -2, 3, -4, 5], square_nums,remove_negatives))
+
+if __name__ == '__main__':
+     main()

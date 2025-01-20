@@ -21,5 +21,11 @@ def count_locals(func):
     func()
     return len(func.__code__.co_varnames)
 
+#-----------------------------------------------
+def main():
 
-print("Number of variables:", count_locals(test_function))
+    print("Number of variables:", count_locals(test_function))
+
+
+if __name__ == '__main__':
+    main()
